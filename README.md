@@ -271,10 +271,14 @@ Downloads "file.zip" from the specified URL.
 ```
 
 ## Output
-![](z.jpg)
-![](x.jpg)
-![](c.jpg)
-![](v.jpg)
+![3](https://github.com/ragulmani936/EX.4-LINUX-COMMANDS/assets/94881918/2170fc29-a5d2-4048-98e0-b04ebe1c04d3)
+
+![4](https://github.com/ragulmani936/EX.4-LINUX-COMMANDS/assets/94881918/36436a12-4f12-4b77-8d46-dbda752a1a4b)
+
+![6](https://github.com/ragulmani936/EX.4-LINUX-COMMANDS/assets/94881918/36bafedb-82b8-4380-939c-4acd1a98bbcc)
+
+![v](https://github.com/ragulmani936/EX.4-LINUX-COMMANDS/assets/94881918/feab3cda-0721-4104-9499-4a47effb689b)
+
 
 ## Result
 This implies that you have acquired a foundational understanding of UNIX commands and have successfully carried out their execution.
